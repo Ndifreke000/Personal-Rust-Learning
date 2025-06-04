@@ -1,0 +1,27 @@
+[package]
+name = "core-memory-concepts"
+version = "0.1.0"
+edition = "2021"
+description = "A comprehensive guide to Rust's core memory concepts"
+
+[dependencies]
+
+[[bin]]
+name = "ownership"
+path = "src/bin/ownership.rs"
+
+[[bin]]
+name = "borrowing"
+path = "src/bin/borrowing.rs"
+
+[[bin]]
+name = "references"
+path = "src/bin/references.rs"
+
+[[bin]]
+name = "slices"
+path = "src/bin/slices.rs"
+
+[[bin]]
+name = "complete_example"
+path = "src/bin/complete_example.rs"
