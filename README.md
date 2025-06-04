@@ -22,8 +22,9 @@ Each chapter from the book is reworked with an analyst’s mindset:
 - ✅ Chapter 1: Getting Started
 - ✅ Chapter 2: Guessing Game
 - ✅ Chapter 3: Programming Concepts
-- 🔜 Chapter 4: Ownership & Memory
-- 🔜 Real-world data pipelines in Rust
+- ✅ Chapter 4: Ownership & Memory
+- ✅ Chapter 5: Using Structs to Structure Related Data
+- ✅ Chapter 6: Enums and Pattern Matching
 
 ## Goals
 
