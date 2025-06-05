@@ -1,0 +1,1 @@
+/home/ndii/Desktop/Personal-Rust-Learning/core-memory-concepts/target/debug/references: /home/ndii/Desktop/Personal-Rust-Learning/core-memory-concepts/src/bin/references.rs /home/ndii/Desktop/Personal-Rust-Learning/core-memory-concepts/src/lib.rs
