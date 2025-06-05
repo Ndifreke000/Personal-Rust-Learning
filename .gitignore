@@ -1,0 +1,19 @@
+# Rust build files
+/target/
+
+# Executables
+**/*.exe
+**/*.dll
+**/*.so
+**/*.dylib
+
+# Debug files
+*.dSYM/
+
+# Cargo specific
+Cargo.lock
+
+# IDE files
+.vscode/
+.idea/
+*.swp
