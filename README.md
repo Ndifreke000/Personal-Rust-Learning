@@ -35,3 +35,5 @@ Each chapter from the book is reworked with an analyst’s mindset:
 ---
 
 > Follow the journey or fork the repo to learn alongside.
+>
+> 7 and 8 soon
